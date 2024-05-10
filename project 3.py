@@ -8,13 +8,3 @@ for i in range(5):
         marks = int(input("enter the mark of the student:"))
         total += marks
     print("the total mark of", name, "is", total)
-
-
-
-
-
-
-
-
-
-
